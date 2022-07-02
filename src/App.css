@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  .btn-theme-disney {
+    color: #fff;
+    padding: 0.5rem 3rem;
+    font-size: 17px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 2vh;
+    display: inline-block;
+    text-transform: uppercase;
+    background-color: #0063e5;
+    border: 1px solid transparent;
+  }
+  
+  .btn-theme-disney:hover {
+    background: #0099ff;
+  }
+  
+  @media screen and  (min-width: 550px) and (max-width: 767px) {
+    .btn-theme-disney  {
+      padding: 0.5rem;
+      font-size: 15px;
+    }
+  }
+  
+  @media screen and  (min-width: 375px) and (max-width: 550px) {
+    .btn-theme-disney  {
+      padding: 0.5rem 1.7rem;
+      font-size: 15px;
+    }
+  }
+  
+  @media screen and  (min-width: 280px) and (max-width: 375px) {
+    .btn-theme-disney  {
+      padding: 0.5rem 1.5rem;
+      font-size: 10px;
+    }
+  }
+  
+  
+  .disney-tittles {
+    font-size: 2.3rem;
+    font-weight: 500 !important;
+    line-height: 2.5rem;
+  }
+  
+  @media screen and  (min-width: 991px) and (max-width: 1200px) {
+    .disney-tittles  {
+      line-height: 2rem;
+      font-size: 2rem;
+    }
+  }
+  
+  @media screen and  (min-width: 550px) and (max-width: 991px) {
+    .disney-tittles  {
+      line-height: 1.8rem;
+      font-size: 1.5rem;
+    }
+  }
+  
+  @media screen and  (min-width: 375px) and (max-width: 550px) {
+    .disney-tittles  {
+      font-size: 1.3rem;
+      line-height: 1.7rem;
+    }
+  }
+  
+  @media screen and  (min-width: 280px) and (max-width: 375px) {
+    .disney-tittles  {
+      font-size: 1.1rem;
+      line-height: 1.3rem;
+    }
+  }
