@@ -97,3 +97,6 @@ npm run build
 ```
 firebase deploy
 ```
+
+
+![image](https://user-images.githubusercontent.com/99184393/177023743-7bbda27b-03d6-49c6-9527-49635217cfda.png)
