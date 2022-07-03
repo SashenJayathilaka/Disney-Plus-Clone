@@ -4,7 +4,7 @@
 #### PREREQUISITES:
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Download all the images and videos <a href='https://drive.google.com/drive/folders/13SvUkXPh7ZC1FRtp62VKFi572elZyxi8?usp=sharing'>HERE</a>
+- Download all the images and videos <a href='https://drive.google.com/drive/folders/1G2qOGccbTmV--MgYtex_mHZDx2-K4WV3?usp=sharing'>HERE</a>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
