@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ```
-npx create-react-app tesla_clone --template redux
+npx create-react-app disney_plus_clone --template redux
 ```
 
 In the project directory, you can run:
