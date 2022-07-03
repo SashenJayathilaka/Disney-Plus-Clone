@@ -1,5 +1,10 @@
-# Tesla Clone Clone with REACT
-<br>
+# Disney+ Clone with REACT
+### <a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank">🔴 LIVE DEMO</a>
+
+#### PREREQUISITES:
+- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+- Download all the images and videos <a href='https://drive.google.com/drive/folders/13SvUkXPh7ZC1FRtp62VKFi572elZyxi8?usp=sharing'>HERE</a>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -55,6 +60,9 @@ yarn add styled-components
 ```
 ```
 npm install -f react-reveal --save
+```
+```
+npm install slick-carousel
 ```
 
 #### flip-move
