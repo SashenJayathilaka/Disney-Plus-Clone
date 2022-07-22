@@ -1,11 +1,23 @@
 # Disney+ Clone with REACT
-### <a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank">🔴 LIVE DEMO</a>
+## <a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank">🔴 LIVE DEMO</a>
 
 #### PREREQUISITES:
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 - Download all the images and videos <a href='https://drive.google.com/drive/folders/1G2qOGccbTmV--MgYtex_mHZDx2-K4WV3?usp=sharing'>HERE</a>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="30" height="30" /></a>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180459460-36cf25b6-8654-4795-8e0c-1b2e9a8a2070.png" alt="Google" width="30" height="30" /></a>
+<a href="#instagram"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Instagram" width="30" height="30" /></a>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="Google" width="30" height="30" /></a>
+<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="30" height="30" /></a>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180461713-76c02155-35f5-497e-b3a3-364fec13da39.png" alt="Google" width="30" height="30" /></a>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="Google" width="30" height="30" /></a>
+<a href="#github"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="30" height="30" /></a>
+<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
+<a href="#github"><img src="https://user-images.githubusercontent.com/99184393/180460354-efcdd581-df6f-4f09-b981-7e910bae5696.png" alt="GitHub" width="30" height="30" /></a>
+
 
 ## Available Scripts
 
@@ -71,7 +83,7 @@ npm i -S react-flip-move
 ```
 
 ## Available MATERIAL-UI Scripts
-find ----> https://v4.mui.com/
+<a href="https://v4.mui.com/">Find</a>
 
 ```
 npm install -f @material-ui/core
@@ -80,14 +92,14 @@ npm install -f @material-ui/core
 npm install -f @material-ui/icons
 ```
 ## Available MATERIAL-UI Scripts
-log in -----> https://firebase.google.com/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEJgGMjrNU4-3-B_y4t75X_98NqlIFJH0-iyVB-5GPQvLm-kihLaerhoCZNYQAvD_BwE&gclsrc=aw.ds <br>
+<a href="https://firebase.google.com/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEJgGMjrNU4-3-B_y4t75X_98NqlIFJH0-iyVB-5GPQvLm-kihLaerhoCZNYQAvD_BwE&gclsrc=aw.ds">log in</a>
 ```
 npm install firebase
 ```
 ```
 npm install -g firebase-tools
 ```
-find info ----> https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9
+<a href="https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9">Find On</a>
 ```
 firebase init hosting
 ```
