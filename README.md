@@ -5,7 +5,6 @@
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 - Download all the images and videos <a href='https://drive.google.com/drive/folders/1G2qOGccbTmV--MgYtex_mHZDx2-K4WV3?usp=sharing'>HERE</a>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="30" height="30" /></a>
 <a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180459460-36cf25b6-8654-4795-8e0c-1b2e9a8a2070.png" alt="Google" width="30" height="30" /></a>
@@ -18,6 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
 <a href="#github"><img src="https://user-images.githubusercontent.com/99184393/180460354-efcdd581-df6f-4f09-b981-7e910bae5696.png" alt="GitHub" width="30" height="30" /></a>
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
