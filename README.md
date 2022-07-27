@@ -99,7 +99,7 @@ npm install firebase
 ```
 npm install -g firebase-tools
 ```
-<a href="https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9">Find On</a>
+<a href="https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9">Find</a>
 ```
 firebase init hosting
 ```
