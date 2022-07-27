@@ -91,7 +91,7 @@ npm install -f @material-ui/core
 ```
 npm install -f @material-ui/icons
 ```
-## Available MATERIAL-UI Scripts
+## Firebase
 <a href="https://firebase.google.com/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEJgGMjrNU4-3-B_y4t75X_98NqlIFJH0-iyVB-5GPQvLm-kihLaerhoCZNYQAvD_BwE&gclsrc=aw.ds">log in</a>
 ```
 npm install firebase
