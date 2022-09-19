@@ -1,10 +1,37 @@
 # Disney+ Clone with REACT
-## <a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank">🔴 LIVE DEMO</a>
 
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Download all the images and videos <a href='https://drive.google.com/drive/folders/1G2qOGccbTmV--MgYtex_mHZDx2-K4WV3?usp=sharing'>HERE</a>
+![](https://img.shields.io/badge/Made%20with-React-orange?style=for-the-badge&logo=React)
+
+
+<a href="https://disney-plus-clone-976a1.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+![](https://img.shields.io/badge/Maintained-Yes-indigo)
+![](https://img.shields.io/github/forks/SashenJayathilaka/Disney-Plus-Clone.svg)
+![](https://img.shields.io/github/stars/SashenJayathilaka/Disney-Plus-Clone.svg)
+![](https://img.shields.io/github/issues/SashenJayathilaka/Disney-Plus-Clone)
+![](https://img.shields.io/github/last-commit/SashenJayathilaka/Disney-Plus-Clone)
+
+## <a href="https://disney-plus-clone-976a1.web.app" target="_blank">LIVE DEMO 💥</a>
+
+### :space_invader: Tech Stack
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://#/">Javascript</a></li>
+  <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://styled-components.com">Styled Components</a></li>
+        <li><a href="https://react-redux.js.org">Redux</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+   <li><a href="https://firebase.google.com">Firebase</a></li>
+  </ul>
+</details>
+
+<br />
 
 <a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="30" height="30" /></a>
 <a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180459460-36cf25b6-8654-4795-8e0c-1b2e9a8a2070.png" alt="Google" width="30" height="30" /></a>
@@ -17,18 +44,66 @@
 <a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
 <a href="#github"><img src="https://user-images.githubusercontent.com/99184393/180460354-efcdd581-df6f-4f09-b981-7e910bae5696.png" alt="GitHub" width="30" height="30" /></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- Screenshots -->
+### :camera: Screenshots
 
+<div style="display: inline_block" align="center"><br>
+
+<a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank"> <img width='800rem' src="https://user-images.githubusercontent.com/99184393/177023743-7bbda27b-03d6-49c6-9527-49635217cfda.png" alt=""/></a>
+</div>
+
+<br />
+
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
+## 	:toolbox: Getting Started
+### :bangbang: Prerequisites
+- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+
+### :gear: Installation
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+Install my-project with npm
 ```
 npx create-react-app disney_plus_clone --template redux
 ```
+```
+cd disney_plus_clone
+```
+<a href="https://firebase.google.com/docs/web/setup" target="_blank">Create a Firebase project.</a>
 
-In the project directory, you can run:
+Install dependencies
+
+<a href="https://github.com/SashenJayathilaka/Disney-Plus-Clone/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
+
+<!-- Run Locally -->
+### :running: Run Locally
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+Clone the project
+
+```bash
+  git clone https://github.com/SashenJayathilaka/Disney-Plus-Clone.git
 ```
-npm start
+
+Install dependencies
+
+```bash
+  npm install
 ```
+Start the server
+
+```bash
+  npm start
+```
+
+<hr />
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -51,7 +126,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [:triangular_flag_on_post: Deployment](https://github.com/SashenJayathilaka/Disney-Plus-Clone/blob/master/README.md) for more information.
 ```
 npm run eject
 ```
@@ -64,50 +139,33 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```
-npm install --global yarn
-```
-```
-yarn add styled-components
-```
-```
-npm install -f react-reveal --save
-```
-```
-npm install slick-carousel
-```
 
-#### flip-move
-```
-npm i -S react-flip-move   
-```
+<!-- Deployment -->
+### :triangular_flag_on_post: Deployment
 
-## Available MATERIAL-UI Scripts
-<a href="https://v4.mui.com/">Find</a>
+To deploy this project run
 
-```
-npm install -f @material-ui/core
-```
-```
-npm install -f @material-ui/icons
-```
-## Firebase
-<a href="https://firebase.google.com/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEJgGMjrNU4-3-B_y4t75X_98NqlIFJH0-iyVB-5GPQvLm-kihLaerhoCZNYQAvD_BwE&gclsrc=aw.ds">log in</a>
-```
-npm install firebase
-```
-```
-npm install -g firebase-tools
-```
-<a href="https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9">Find</a>
+![](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
+
+Install the Firebase CLI
+
+Visit the Firebase CLI documentation to learn how to <a href="https://firebase.google.com/docs/cli#install_the_firebase_cli" target="_blank">install the CLI</a>  or <a href="https://firebase.google.com/docs/cli#update-cli" target="_blank">update to its latest version.</a>
+
+publish your project
+
 ```
 firebase init hosting
 ```
+Deploy to your site
+
 ```
-npm run build
-```
-```
-firebase deploy
+firebase deploy --only hosting
 ```
 
-<a href="https://disney-plus-clone-976a1.firebaseapp.com/" target="_blank">![image](https://user-images.githubusercontent.com/99184393/177023743-7bbda27b-03d6-49c6-9527-49635217cfda.png)</a>
+[MoreInfo](https://firebase.google.com/docs/hosting/quickstar)
+
+## :handshake: Contact
+
+Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+
+Project Link: [https://github.com/SashenJayathilaka/Disney-Plus-Clone.git](https://github.com/SashenJayathilaka/Disney-Plus-Clone.git)
